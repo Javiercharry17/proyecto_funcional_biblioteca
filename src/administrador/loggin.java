@@ -48,7 +48,7 @@ public class loggin extends javax.swing.JFrame {
         jLabel4.setBackground(new java.awt.Color(255, 255, 255));
         jLabel4.setFont(new java.awt.Font("Times New Roman", 0, 18)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel4.setText("USUARIO:");
+        jLabel4.setText("CORREO");
         jLabel4.setToolTipText("");
 
         campo_usuario_loggin.addActionListener(new java.awt.event.ActionListener() {
