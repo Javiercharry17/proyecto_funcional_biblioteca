@@ -279,7 +279,7 @@ public class registro_music extends javax.swing.JFrame {
             }
         });
 
-        btn_eliminar.setBackground(new java.awt.Color(255, 255, 102));
+        btn_eliminar.setBackground(new java.awt.Color(255, 0, 0));
         btn_eliminar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         btn_eliminar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/borrar.png"))); // NOI18N
         btn_eliminar.setText("Eliminar");
