@@ -118,6 +118,7 @@ public class registro_music extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(0, 102, 102));
 
+        btn_actualizar.setBackground(new java.awt.Color(153, 0, 153));
         btn_actualizar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         btn_actualizar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/boton-actualizar (1).png"))); // NOI18N
         btn_actualizar.setText("Actualizar");
@@ -127,6 +128,7 @@ public class registro_music extends javax.swing.JFrame {
             }
         });
 
+        btnAgregar.setBackground(new java.awt.Color(153, 0, 153));
         btnAgregar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         btnAgregar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/guardar.png"))); // NOI18N
         btnAgregar.setText("Agregar");
