@@ -279,7 +279,7 @@ public class registro_music extends javax.swing.JFrame {
             }
         });
 
-        btn_eliminar.setBackground(new java.awt.Color(255, 255, 102));
+        btn_eliminar.setBackground(new java.awt.Color(255, 51, 51));
         btn_eliminar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         btn_eliminar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/borrar.png"))); // NOI18N
         btn_eliminar.setText("Eliminar");
@@ -289,7 +289,7 @@ public class registro_music extends javax.swing.JFrame {
             }
         });
 
-        btn_exportar.setBackground(new java.awt.Color(255, 255, 102));
+        btn_exportar.setBackground(new java.awt.Color(255, 51, 51));
         btn_exportar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         btn_exportar.setIcon(new javax.swing.ImageIcon(getClass().getResource("/imagenes/sobresalir123.png"))); // NOI18N
         btn_exportar.setText("Exportar ");
